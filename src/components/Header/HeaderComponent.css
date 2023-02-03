@@ -1,0 +1,31 @@
+.header{
+    padding: 0;
+    height: 140px;
+    margin: 0;
+    position: relative;
+    float: left;
+    width: 100%;
+    /* background-color: #be054a; */
+    /* background-image: url(img/TopBar.png); */
+    background-image: url('../..//../public/TopBar.png');
+    background-size: 100% 110%;
+    background-color: #ffffff;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 21;
+}
+.header-content {
+    color: #ffffff;
+    font-size: 27px;
+    width: 70%;
+    margin: auto;
+    font-family: 'Regular', sans-serif;
+    font-weight: bold;
+}
+@media only screen and (max-width: 768px) {
+    .header{
+        background-image: none;
+        background-color: #be054a !important;
+        width: 100%;
+    }
+}

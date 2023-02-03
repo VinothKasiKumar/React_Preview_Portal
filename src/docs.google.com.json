@@ -1,0 +1,430 @@
+[
+ null,
+ null,
+ {
+  "dummy_Logins : Sheet1": 1,
+  "Column2": "Id",
+  "Column3": "User",
+  "Column4": "Login",
+  "Column5": "Pass",
+  "Column6": "Products"
+ },
+ {
+  "dummy_Logins : Sheet1": 2,
+  "Column2": 1,
+  "Column3": "MiQ",
+  "Column4": "MIQ-Honeywell",
+  "Column5": "MIQ-Honeywell@2020",
+  "Column6": "Retargeting_Carousel,Prospecting_Locate"
+ },
+ {
+  "dummy_Logins : Sheet1": 3,
+  "Column2": 2,
+  "Column3": "MiQ",
+  "Column4": "MIQ-Celltrient",
+  "Column5": "MIQ-Celltrient@2020",
+  "Column6": "Retargeting_Carousel,Prospecting_feature"
+ },
+ {
+  "dummy_Logins : Sheet1": 4,
+  "Column2": 3,
+  "Column3": "MiQ",
+  "Column4": "MIQ-Celltrient-Protect",
+  "Column5": "MiQ",
+  "Column6": "Prospecting_feature"
+ },
+ {
+  "dummy_Logins : Sheet1": 5,
+  "Column2": 4,
+  "Column3": "Regital-TedBaker",
+  "Column4": "Regital-TedBaker",
+  "Column5": "Regital-TedBaker@2020",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 6,
+  "Column2": 5,
+  "Column3": "BHF",
+  "Column4": "BHF",
+  "Column5": "BHF@2020",
+  "Column6": "Prospecting_Locate,Prospecting_Hero"
+ },
+ {
+  "dummy_Logins : Sheet1": 7,
+  "Column2": 6,
+  "Column3": "MIQ-Endura",
+  "Column4": "MIQ-Endura",
+  "Column5": "MIQ-Endura@2020",
+  "Column6": "Retargeting_Carousel,Prospecting_Hero"
+ },
+ {
+  "dummy_Logins : Sheet1": 8,
+  "Column2": 7,
+  "Column3": "test",
+  "Column4": "test",
+  "Column5": "test",
+  "Column6": "Prospecting_Hero,Retargeting-DUO,Prospecting_Multi,Prospecting_Travel,DCO-GO_Social,stagecoach Video,Retargeting_Travel,Prospecting_Swipe,Retargeting_Swipe_Test,Prosecpting_Swipe_VUE,Lookfantasic_New,Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 9,
+  "Column2": 8,
+  "Column3": "MiQ",
+  "Column4": "Topps",
+  "Column5": "Topps",
+  "Column6": "Retargeting_Carousel,Prospecting_feature"
+ },
+ {
+  "dummy_Logins : Sheet1": 10,
+  "Column2": 9,
+  "Column3": "MiQ",
+  "Column4": "Topps-F",
+  "Column5": "Topps",
+  "Column6": "Prospecting_feature"
+ },
+ {
+  "dummy_Logins : Sheet1": 11,
+  "Column2": 10,
+  "Column3": "MiQ",
+  "Column4": "Subway",
+  "Column5": "Subway",
+  "Column6": "Prospecting_Hero,Prospecting_Locate"
+ },
+ {
+  "dummy_Logins : Sheet1": 12,
+  "Column2": 11,
+  "Column3": "Adapt",
+  "Column4": "Nkuku",
+  "Column5": "Nkuku",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 13,
+  "Column2": 12,
+  "Column3": "MiQ",
+  "Column4": "MIQ-UllaPopken",
+  "Column5": "MIQ-UllaPopken@2021"
+ },
+ {
+  "dummy_Logins : Sheet1": 14,
+  "Column2": 13,
+  "Column3": "Demo",
+  "Column4": "Demo",
+  "Column5": "Demo@2021",
+  "Column6": "Retargeting_Carousel,Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 15,
+  "Column2": 14,
+  "Column3": "Platform 195",
+  "Column4": "Platform195",
+  "Column5": "Travel",
+  "Column6": "Prospecting_Travel,Retargeting_Travel"
+ },
+ {
+  "dummy_Logins : Sheet1": 16,
+  "Column2": 15,
+  "Column3": "Adapt",
+  "Column4": "Adapt",
+  "Column5": "Travel",
+  "Column6": "Prospecting_Travel,Retargeting_Travel,Intrepid_USA_Prospecting,Intrepid_USA_Retargeting,Intrepid_UK_Prospecting,Intrepid_UK_Retargeting,Intrepid_CAN_Prospecting,Intrepid_CAN_Retargeting,Intrepid_DE_Prospecting,Intrepid_DE_Retargeting,Intrepid_Switzerland_Prospecting,Intrepid_Switzerland_Retargeting"
+ },
+ {
+  "dummy_Logins : Sheet1": 17,
+  "Column2": 16,
+  "Column3": "Adapt",
+  "Column4": "Adapt-Intrepid",
+  "Column5": "Intrepid",
+  "Column6": "Retargeting_Travel,Intrepid_USA_Prospecting,Intrepid_USA_Retargeting,Intrepid_UK_Prospecting,Intrepid_UK_Retargeting,Intrepid_CAN_Prospecting,Intrepid_CAN_Retargeting,Intrepid_DE_Prospecting,Intrepid_DE_Retargeting,Intrepid_Switzerland_Prospecting,Intrepid_Switzerland_Retargeting"
+ },
+ {
+  "dummy_Logins : Sheet1": 18,
+  "Column2": 17,
+  "Column3": "Subway",
+  "Column4": "Subway",
+  "Column5": "Subway2021",
+  "Column6": "Subway_dco_go_hero"
+ },
+ {
+  "dummy_Logins : Sheet1": 19,
+  "Column2": 18,
+  "Column3": "Lookfantastic",
+  "Column4": "Lookfantastic",
+  "Column5": "LF@2021",
+  "Column6": "Retargeting_Carousel,Prospecting_Hero"
+ },
+ {
+  "dummy_Logins : Sheet1": 20,
+  "Column2": 19,
+  "Column3": "MiQ",
+  "Column4": "99Bikes",
+  "Column5": "99B",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 21,
+  "Column2": 20,
+  "Column3": "MiQ",
+  "Column4": "MIQ-Ulla_Popken_Live",
+  "Column5": "Ulla",
+  "Column6": "Ulla_Popken_MiQ_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 22,
+  "Column2": 21,
+  "Column3": "Croud",
+  "Column4": "Avon",
+  "Column5": "Avon@2021",
+  "Column6": "Retargeting_Carousel,Prospecting_Hero"
+ },
+ {
+  "dummy_Logins : Sheet1": 23,
+  "Column2": 22,
+  "Column3": "MiQ",
+  "Column4": "Missoma",
+  "Column5": "Missoma@2021",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 24,
+  "Column2": 23,
+  "Column3": "Lookfantastic",
+  "Column4": "Lookfantastic_New",
+  "Column5": "LF@2021",
+  "Column6": "LF-Lower_Funnel_Carousel, LF_Mid_and_Upper_Funnel_Hero, Lookfantasic_New"
+ },
+ {
+  "dummy_Logins : Sheet1": 25,
+  "Column2": 24,
+  "Column3": "Croud",
+  "Column4": "TGG",
+  "Column5": "TGG@2021",
+  "Column6": "Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 26,
+  "Column2": 25,
+  "Column3": "MiQ",
+  "Column4": "Protyre",
+  "Column5": "Protyre@2021",
+  "Column6": "Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 27,
+  "Column2": 26,
+  "Column3": "MiQ",
+  "Column4": "Missguided",
+  "Column5": "MG@2021",
+  "Column6": "Retargeting_Carousel,Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 28,
+  "Column2": 27,
+  "Column3": "Adapt",
+  "Column4": "Leigh-Day",
+  "Column5": "LD@2021",
+  "Column6": "Prospecting_Swipe,DCO-GO_Social | Video"
+ },
+ {
+  "dummy_Logins : Sheet1": 29,
+  "Column2": 28,
+  "Column3": "MiQ",
+  "Column4": "Clogau",
+  "Column5": "CG@2021",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 30,
+  "Column2": 29,
+  "Column3": "MiQ",
+  "Column4": "ThisWorks",
+  "Column5": "TW@2021",
+  "Column6": "Retargeting_Carousel,Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 31,
+  "Column2": 30,
+  "Column3": "MiQ",
+  "Column4": "LloydsOnline",
+  "Column5": "LO@2021",
+  "Column6": "Prospecting_Swipe,Retargeting-DUO"
+ },
+ {
+  "dummy_Logins : Sheet1": 32,
+  "Column2": 31,
+  "Column3": "Adapt",
+  "Column4": "VUE",
+  "Column5": "VUE@2021",
+  "Column6": "Retargeting_Swipe_Test,VUE_UK_Prospecting,VUE_DE_Prospecting,VUE_IT_Prospecting,VUE_DK_Prospecting,VUE_NL_Prospecting,VUE_PL_Prospecting,VUE_UK_Retargeting,VUE_DE_Retargeting,VUE_IT_Retargeting,VUE_PL_Retargeting,VUE_DK_Retargeting,VUE_NL_Retargeting,VUE_UK_Prospecting_FilmBundle,VUE_UK_Retargeting_FilmBundle"
+ },
+ {
+  "dummy_Logins : Sheet1": 33,
+  "Column2": 32,
+  "Column3": "MiQ",
+  "Column4": "Lookers",
+  "Column5": "L@2021",
+  "Column6": "Prospecting_Swipe"
+ },
+ {
+  "dummy_Logins : Sheet1": 34,
+  "Column2": 33,
+  "Column3": "MiQ",
+  "Column4": "HB",
+  "Column5": "HB@2021",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 35,
+  "Column2": 34,
+  "Column3": "MiQ",
+  "Column4": "LB",
+  "Column5": "LB@2021",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 36,
+  "Column2": 35,
+  "Column3": "MiQ",
+  "Column4": "LBB",
+  "Column5": "LB@2021",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 37,
+  "Column2": 36,
+  "Column3": "P195",
+  "Column4": "ExpressTest",
+  "Column5": "ET@2021",
+  "Column6": "Prospecting_Travel,ExpressTest_Platform195_Prospecting"
+ },
+ {
+  "dummy_Logins : Sheet1": 38,
+  "Column2": 37,
+  "Column3": "JDE",
+  "Column4": "JDE",
+  "Column5": "JDE",
+  "Column6": "Retargeting_Travel"
+ },
+ {
+  "dummy_Logins : Sheet1": 39,
+  "Column2": 38,
+  "Column3": "MiQ",
+  "Column4": "SL",
+  "Column5": "SL@2021",
+  "Column6": "Retargeting_Travel"
+ },
+ {
+  "dummy_Logins : Sheet1": 40,
+  "Column2": 39,
+  "Column3": "MiQ",
+  "Column4": "Timberland",
+  "Column5": "Timberland@2022",
+  "Column6": "Timberland_FR_Remarketing,Timberland_DE_Retargeting,Timberland_ES_Remarketing,Timberland_IT_Remarketing,Timberland_NL_Remarketing,Timberland_UK_Retargeting,Timberland_DE_Prospecting,Timberland_ES_Prospecting,Timberland_FR_Prospecting,Timberland_IT_Prospecting,Timberland_NL_Prospecting,Timberland_UK_Prospecting"
+ },
+ {
+  "dummy_Logins : Sheet1": 41,
+  "Column2": 40,
+  "Column3": "Croud",
+  "Column4": "C",
+  "Column5": "C@2021",
+  "Column6": "Retargeting_Travel"
+ },
+ {
+  "dummy_Logins : Sheet1": 42,
+  "Column2": 41,
+  "Column3": "Croud",
+  "Column4": "VS",
+  "Column5": "VS@2022",
+  "Column6": "Retargeting_Carousel"
+ },
+ {
+  "dummy_Logins : Sheet1": 43,
+  "Column2": 42,
+  "Column3": "CAdapt",
+  "Column4": "Adapt",
+  "Column5": "Travel",
+  "Column6": "Prospecting and Retargeting Travel"
+ },
+ {
+  "dummy_Logins : Sheet1": 44,
+  "Column2": 43,
+  "Column3": "stagecoach",
+  "Column4": "stagecoach",
+  "Column5": "stagecoach",
+  "Column6": "Stagecoach - Display,Stagecoach - Social"
+ },
+ {
+  "dummy_Logins : Sheet1": 45,
+  "Column2": 44,
+  "Column3": "TheStreet",
+  "Column4": "TheStreet",
+  "Column5": "TheStreet@2022",
+  "Column6": "The_Street"
+ },
+ {
+  "dummy_Logins : Sheet1": 46,
+  "Column2": 45,
+  "Column3": "Britbox",
+  "Column4": "britbox",
+  "Column5": "britbox@2022",
+  "Column6": "Britbox,Britbox-2022-design"
+ },
+ {
+  "dummy_Logins : Sheet1": 47,
+  "Column2": 46,
+  "Column3": "SGU",
+  "Column4": "SGU",
+  "Column5": "SGU@2022",
+  "Column6": "SGU"
+ },
+ {
+  "dummy_Logins : Sheet1": 48,
+  "Column2": 47,
+  "Column3": "nfl",
+  "Column4": "nfl",
+  "Column5": "nfl@2022",
+  "Column6": "NFL_Campaign_EU,NFL_Campaign_LATAM,NFL_Campaign_ROW"
+ },
+ {
+  "dummy_Logins : Sheet1": 49,
+  "Column2": 48,
+  "Column3": "nfl-matchup",
+  "Column4": "nfl-matchup",
+  "Column5": "nfl-matchup@2022",
+  "Column6": "NFL_Matchups_EU,NFL_Matchups_ROW,NFL_Matchups_LATAM,NFL_Matchups_Countdown_EU,NFL_Matchups_Countdown_LATAM,NFL_Matchups_Countdown_ROW"
+ },
+ {
+  "dummy_Logins : Sheet1": 50,
+  "Column2": 49,
+  "Column3": "debeers",
+  "Column4": "debeers",
+  "Column5": "debeers@2022",
+  "Column6": "debeers"
+ },
+ {
+  "dummy_Logins : Sheet1": 51,
+  "Column2": 50,
+  "Column3": "Hyundai",
+  "Column4": "hyundai-fr",
+  "Column5": "hyundai@2022",
+  "Column6": "Hyundai_DE,Hyundai_FR"
+ },
+ {
+  "dummy_Logins : Sheet1": 52,
+  "Column2": 51,
+  "Column3": "michael-page",
+  "Column4": "michael-page",
+  "Column5": "michael@2022",
+  "Column6": "Michael_Page_EU,Michael_Page_UK"
+ },
+ {
+  "dummy_Logins : Sheet1": 53,
+  "Column2": 52,
+  "Column3": "savills",
+  "Column4": "savills",
+  "Column5": "savills@2023",
+  "Column6": "Savills_Video"
+ },
+ {
+  "dummy_Logins : Sheet1": "Published by Google Sheets–Report Abuse–Updated automatically every 5 minutes"
+ }
+]

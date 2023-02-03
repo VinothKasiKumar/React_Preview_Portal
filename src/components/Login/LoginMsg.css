@@ -1,0 +1,11 @@
+.login-msg{
+    text-align: center;
+    color: #212529;
+    width: auto;
+    margin: 40px auto;
+    padding: 10px;
+    line-height: 1.6;
+    max-width: 700px;
+    border: 2px solid #be054a;
+    display: block;
+}
